@@ -1,0 +1,14 @@
+Origin: Finder’s Repo
+Label: <Repo label>
+Suite: stable
+Version: 1.1.4
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: <Repo description>MD5Sum:
+  528f95aaa39096c43b80661b8b869da8 737 Packages
+  5183ef886adf92904e5a4f45c4d1eaf3 551 Packages.bz2
+SHA256:
+  a30e2295cc0a47572ae78921a96f9c63347534684b39ad0feaebd6df9e220392 737 Packages
+  09848fdea6bced9f2a609c54df312aef23ddf5c02b5a092a8a567561af72783a 551 Packages.bz2
+
